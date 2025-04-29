@@ -1,1 +1,1 @@
-# linktool
+Name Generator -- https://oblivionnamegenerator.com/
